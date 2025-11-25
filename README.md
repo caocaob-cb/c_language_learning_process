@@ -1,3 +1,4 @@
 # c_language_learning_process
 record_mine_learning_process
-记录我的学习
+
+记录我的学习，草泥马的我要天天学习c语言来维护github，我要考研，我要年薪三十万你妈了个逼的。
